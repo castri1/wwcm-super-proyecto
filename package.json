@@ -1,0 +1,14 @@
+{
+  "name": "wwcm-proyect",
+  "version": "1.0.0",
+  "description": "ejemplo de github actions",
+  "main": "superScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Castrillon",
+  "license": "ISC",
+  "dependencies": {
+    "random-words": "^1.2.0"
+  }
+}
