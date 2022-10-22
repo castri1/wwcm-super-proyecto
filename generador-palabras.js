@@ -45,4 +45,5 @@ function logEnd() {
   await logRandomWords();
   logEnd();
   console.log('Super feature nuevo');
+  console.log('Super feature nuevo 2');
 })();
